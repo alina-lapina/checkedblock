@@ -1,2 +1,2 @@
 # checkedblock
-Checked Block IT Consulting
+Checked Block - Web3 Agency
